@@ -1,0 +1,25 @@
+body {
+	background-color: #1743d35d;
+}
+
+.app {
+  background-color: #FFF;
+	max-width: 50%;
+	width: 90%;
+	margin: 100px auto;
+}
+
+.display_timer {
+	text-align: center;
+	padding: 0 15px;
+}
+
+.timer_display {
+ background-color: rgb(80, 81, 155);
+ width: 0 auto;
+}
+
+.timer_numb {
+	 font-size: 40px;
+}
+
